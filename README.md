@@ -12,7 +12,7 @@ Use the standard AdSense code somewhere in your `<head></head>` as you [normally
 #### Import NgModule
 
 Add GoogleAdsenseModule to the imports of your NgModule
-
+```
 @NgModule({
   imports: [
     // shown passing global defaults (optional)
